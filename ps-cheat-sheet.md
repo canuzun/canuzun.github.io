@@ -86,6 +86,6 @@ $vmName
 )
 ```
 ### Some References
-* https://stackoverflow.com/questions/30149311/powershell-dot-notation-vs-select-object
-* https://stackoverflow.com/questions/8097354/how-do-i-capture-the-output-into-a-variable-from-an-external-process-in-powershe/35980675
-* https://stackoverflow.com/questions/25682507/powershell-inline-if-iif
+* [Select Object](https://stackoverflow.com/questions/30149311/powershell-dot-notation-vs-select-object)
+* [Capture output to variable from External Source](https://stackoverflow.com/questions/8097354/how-do-i-capture-the-output-into-a-variable-from-an-external-process-in-powershe/35980675)
+* [Inline If](https://stackoverflow.com/questions/25682507/powershell-inline-if-iif)
